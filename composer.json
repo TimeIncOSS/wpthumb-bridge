@@ -1,0 +1,16 @@
+{
+	"name"       : "TimeIncOSS/wpthumb-bridge",
+	"description": "Bridge wpthumb function to using (nicer_ S3-Uploads + Imgix)",
+	"homepage"   : "https://github.com/TimeIncOSS/wpthumb-bridge",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Human Made",
+			"homepage": "https://hmn.md/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
